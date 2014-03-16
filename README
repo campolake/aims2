@@ -1,0 +1,10 @@
+﻿需要添加的包：
+struts2-core-2.3.1.2.jar - This contains all the Struts2 core classes
+ognl-3.0.4.jar - OGNL library for using OGNL expression language
+xwork-core-2.3.1.2.jar – Struts 2 uses XWork MVC library
+freemarker-2.3.18.jar – UI templates are written in freemarker
+javassist-3.11.0.GA.jar – Essential dependency of Struts 2
+commons-io-2.0.1.jar – Essential dependency of Struts 2
+commons-filleupload-1.2.2.jar – Essential dependency of Struts 2，没有包含这个包的时候报找不到strut_defult.xml的错误？？
+commons-lang-2.5.jar – Essential dependency of Struts 2
+参考：http://www.quickprogrammingtips.com/struts2/struts-2-netbeans-tutorial.html
